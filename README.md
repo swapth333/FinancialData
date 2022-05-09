@@ -1,4 +1,4 @@
-# FinancialData
+# Consumer Complaint analysis
 
 This repository borrows data from CFPB's [Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data). 
 Complaints that the CFPB sends to companies for response are published in the Consumer Complaint Database after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first.
