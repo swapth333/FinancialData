@@ -2,7 +2,7 @@
 
 **Dataset** 
 
-This repository borrows data from CFPB's [Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data). These are Complaints from customers on financial products and services. There are more that 2500K complaints with 18 attributes. These are real world complaints be customers on financial products and services. Each complaint is lebelled with specific product, sub product, issue, sub issue, customer complaint narrative, customer disputed, hence it can become a real supervised machine learning problem with classification. 
+This repository borrows data from CFPB's [Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data). These are Complaints from customers on financial products and services. There are more that 2500K complaints with 18 attributes. These are real world complaints of customers on financial products and services. Each complaint is lebelled with specific product, sub product, issue, sub issue, customer complaint narrative, customer disputed, hence it can become a real supervised machine learning problem with classification. 
 The CFPB sends these complaints to companies for response are published in the Consumer Complaint Database after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first.
 
 **Exploratory Data Analysis**
