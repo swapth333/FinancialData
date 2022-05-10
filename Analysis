@@ -1,0 +1,4 @@
+Dataset: Complaints from customers on financial products and services. 
+These are real world complaints be customers on financial products and services. Each complaint is lebelled with specific product, sub product, issue, sub issue, customer complaint narrative, customer disputed, hence it can become a real supervised machine learning problem with classification. 
+Firstly I have done Exploratory data analysis to find which product had maximum complaints, what was their issues, which company received maximum complaints, did customer dispute?. 
+Each complaint is lebelled with product and customer compolaint narrative with detailed complaint. We used text classifier and find out what were the mostly used unigrams and bigrams for each product. Text classifier also helps to predict product based on complaint. 
