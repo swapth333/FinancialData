@@ -15,6 +15,6 @@ Since most of the attributes are categorical this becomes classifications proble
 
 1. The aim of our analysis is to identify treat the Company's response to a complaint as the target variable. I have analysed the variables that are relevant in determining how the company responded to a consumer complaint, and build a random forest based predictive model to make predictions on the target variable. Finally, I have compared this with a decision tree model, which resulted in an almost similar prediction capability. The scoring metric used here is the F1 Score since the data is highly imbalanced.
 
-2. In second part we took product and customer compolaint narrative for our analysis. We find out what were the mostly used unigrams and bigrams for each product. Text classifier also helps to predict product based on complaint. 
+2. In second part we took product and customer complaint narrative for our analysis. We find out what were the mostly used unigrams and bigrams for each product. Text classifier also helps to predict product based on complaint. 
 
 
